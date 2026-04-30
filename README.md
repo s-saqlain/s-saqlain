@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About:
 Hi, I'm Sheikh Saqlain.<br>I’m a passionate Frontend & Python Developer <br>with a strong interest in AI, NLP, and data-driven applications.<br>I actively explore machine learning, natural language processing, and automation.<br>I am pursuing MSc in AI/ML from Jamia Millia Islamia, New Delhi
 
 
